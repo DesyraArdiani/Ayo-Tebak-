@@ -1,0 +1,59 @@
+1. Format extensi dari Office word adalah 
+a. .xlsx
+b. .acssx
+c. semua salah
+d. .docx ~~
+
+2. jika kita ingin mencetak dokumen, maka kita harus menekan tombol...pada keyboard
+ctrl+J
+ctrl+H
+ctrl+S
+ctrl+P ~
+
+3. di bawah ini yang merupakan alat hitung zaman kuno adalah 
+ipad
+sempoa ~
+kalkulator
+handphone
+
+4. Tombol pada keyboard yang kegunaannya untuk mengubah semua huruf yang diketik menjadi huruf besar adalah
+tombol pause
+tombol enter
+tombol escape
+tombol caps lock ~
+
+5. berikut ini yang termasuk Hardware adalah
+google chrome
+microsoft office
+motherboard ~
+adobe photoshop
+
+6. yang tidak termasuk varian jenis dari microsoft office adalah
+visio
+hangout ~
+word
+publisher
+
+7. komersialisasi dari jaringan international (internet) terjadi pada tahun
+1993
+1992 ~
+1991
+1990
+
+8. komponen utama dari sebuah perangkat komputer adalah
+slot bus
+port bus
+vga card
+processor ~
+
+9. unsur pesan yang dibawa dalam media perangkat pembelajaran komputasi dapat dikategorikan sebagai
+software
+hardware
+groupware ~
+braiware
+
+10. jenis keyboard yang biasa digunakan adalah
+maltron
+DVORAK
+QWERTY ~
+numeric
